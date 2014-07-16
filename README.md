@@ -77,9 +77,8 @@ For reference see Agilent's [accessories catalog][catalog] for the Bravo.
 See the [VWorks Knowledge Base][device-file] for more information on how to select the device file.
 
 ## Protocol ##
-:warning: **Links not yet available**
 
-See the NGI Stockholm/SciLifeLab [Standard Operating Procedure][sop].
+Instructions extracted from the NGI Stockholm/SciLifeLab SOP are available as a [PDF file][sop].
 
 ## License ##
 > Licensed under the Apache License, Version 2.0 (the "License");
@@ -105,7 +104,7 @@ The full license can also be found in the file LICENSE and must included when re
 [zip]: https://github.com/jgruselius/nextera-xt/archive/master.zip
 [import]: http://www.velocity11.com/techdocs/AutomationSolutionsKB/vworks4_ug/11_Troubleshooting.15.03.html#2005458
 [catalog]: http://www.chem.agilent.com/Library/catalogs/Public/5991-0369EN.pdf
-[sop]: about:blank
+[sop]: http://goo.gl/dKHe9p
 [device-file]: http://www.velocity11.com/techdocs/AutomationSolutionsKB/vworks4_ug/02_CreateProtocolBasic.04.08.html#1981042
 
 ---
