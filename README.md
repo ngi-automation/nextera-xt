@@ -1,4 +1,4 @@
-# Automated Nextera Rapid Capture Installation Guide #
+# Automated Nextera XT Installation Guide #
 **For Agilent NGS Workstation Option B**
 
 ## Contents ##
