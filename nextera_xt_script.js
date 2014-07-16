@@ -1,8 +1,8 @@
 runset.clear();
 
-var path = "C:/VWorks Workspace/Protocol Files/development/jgr/nextera";
+var path = "C:/VWorks Workspace/Protocol Files/nextera-xt";
 
-run("C:/VWorks Workspace/Protocol Files/facility/resources/clear_inventory.bat", true);
+run("C:/VWorks Workspace/Protocol Files/nextera-xt/resources/clear_inventory.bat", true);
 
 var runsetMode;		// Alt settings for library prep runset (true/false)
 var formMode;		// Sets Nextera RC (1) or XT (0) mode
