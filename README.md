@@ -21,12 +21,12 @@ This README describes how to set up NGI Stockholms Nextera XT method for the Agi
 - Labware definitions*
 - Liquid classes definition*
 
-\* provided in `nextera_labware_liquids.vzp`
+\* provided in `all_labware_liquids.vzp`
 
 #### Included files ####
 ```
 nextera.pro
-nextera_labware_liquids.vzp
+all_labware_liquids.vzp
 nextera_pcr.pro
 nextera_xt_form.VWForm
 nextera_xt_intermission1.pro
@@ -56,7 +56,7 @@ and extract to `C:\VWorks Workspace\Protocol Files`
 
 ### Configure ###
 #### Labware and and liquid class definitions ####
-Use the import feature in VWorks from `File › Import`in the toolbar and select the `nextera-labware-liquids.vzp` file included. See the [VWorks Knowledge Base][import] for more information.
+Use the import feature in VWorks from `File › Import`in the toolbar and select the `all_labware_liquids.vzp` file included. See the [VWorks Knowledge Base][import] for more information.
 
 #### Device files ####
 Device files and profiles are system specific and will not be provided. The "standard" Bravo configuration is used in the Nextera XT protocols:
