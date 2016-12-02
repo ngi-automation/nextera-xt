@@ -28,6 +28,7 @@ This README describes how to set up NGI Stockholms Nextera XT method for the Agi
 nextera.pro
 all_labware_liquids.vzp
 nextera_pcr.pro
+nextera_spri.pro
 nextera_xt_form.VWForm
 nextera_xt_intermission1.pro
 nextera_xt_runset.rst
